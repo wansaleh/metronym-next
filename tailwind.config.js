@@ -24,7 +24,7 @@ module.exports = {
         sans: ['Inter', ...defaultTheme.fontFamily.sans],
         head: ['Inter', ...defaultTheme.fontFamily.sans],
         serif: ['Merriweather', ...defaultTheme.fontFamily.sans],
-        mono: ['Nanum Gothic Coding', 'monospace']
+        mono: ['JetBrainsMono', 'monospace']
       }
     }
   },
